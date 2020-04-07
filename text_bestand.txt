@@ -1,1 +1,0 @@
-<h1>deze tekst is geladen met AJAX</h1>
